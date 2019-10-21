@@ -15,7 +15,7 @@
 - ‼️ Thanks to [darkal](https://github.com/darkal) and his [config](https://github.com/darkal/Hackintosh-Thinkpad-X1-Extreme), battery drain in hibernation has been solved.
   - I added my AppleALC and CPUFriend (to enable better turbo boost). 
   - Report from Activity Monitor told me that battery can support  4~5 hours' using
-  - [2019.08.19] I made my own DSDT patch, which is a little different. See [Release 10.14.6 v1.1](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/releases/tag/v10.14.6.1.1) 
+- Latest version in this repo is using **my own patched dsdt**. You can make your own following [this](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#dsdt-patch).
 - This repo basically is a fork repo of [Errrneist's repo](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme), except for some little change to compatible with my machine, which has different hardwares.
 
 I will make effort to try every release and make modification if encounter with problems.
@@ -66,7 +66,7 @@ I will make effort to try every release and make modification if encounter with 
 ### DSDT patch
 
 - Battery level display (directly use RehabMan/thinkpad x230i patch)
-- Keyboard function keys, volume and screen brightness (DSDT EC _Q14, _Q15 patch)
+- Keyboard function keys, volume and screen brightness (DSDT EC _Q14, _Q15 patch), [see](https://github.com/zysuper/Thinkpad-X1-extreme-EFI/issues/18#issuecomment-502606377).
 - Audio Layout (change any one of the patches and change layout id to 31, this may remain rudimentary with alcid=31 in conflg.plist)
 
 ### kext modifications

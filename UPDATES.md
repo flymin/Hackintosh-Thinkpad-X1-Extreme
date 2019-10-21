@@ -14,7 +14,7 @@
 ### August Updates
 
 - [20190828] ALCPlugFix for headphone plug issue
-- [20190819] [Release for 10.14.6 v1.1](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/releases/tag/v10.14.6.1.1)
+- [20190819]I made my own DSDT patch, which is a little different. See [Release 10.14.6 v1.1](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/releases/tag/v10.14.6.1.1).
 - [20190815] [Release for 10.14.6 v1.0](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/releases/tag/v10.14.6.1.0)
 - [20190811] [Adjusted release 10.15.0-3.0](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/releases/tag/v10.15.0.3.0.0)
 
