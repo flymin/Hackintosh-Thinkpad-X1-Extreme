@@ -1,6 +1,6 @@
 # Flymin's Hackintosh profile on Thinkpad X1E
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15](https://img.shields.io/badge/MacOS-10.15-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![CLOVER:5070](https://img.shields.io/badge/CLOVER-5070-yellow)
+[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15](https://img.shields.io/badge/MacOS-10.15-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![CLOVER:5097](https://img.shields.io/badge/CLOVER-5097-yellow)
 
 ## Update
 
