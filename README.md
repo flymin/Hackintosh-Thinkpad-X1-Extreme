@@ -6,9 +6,9 @@
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
-- [20191021] Figured out how to control cpu fan, see [known-issue#3](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue)
+- [20191021] In case you find problem when using AirPods. See [known-issue#4](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
+- [20191021] Figured out how to control cpu fan, see [known-issue#3](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191014] Headphone work unpleasantly. **Re**install ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
-- [20191010] Headphone work unpleasantly. Uninstall ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 
 ## ATTENTION
 
@@ -60,6 +60,7 @@ I will make effort to try every release and make modification if encounter with 
 - [Fixed] For releases prior to commit [#f1fc8ce](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/commit/f1fc8ce9e9c6eed0708d520e2a6d5e2b6abba95e), I used a auto-reload script to make audio card available everytime I log in. However, this may cause a Kernal Panic when wake up from sleep. Layout 31 do not need this.
 - [Fixed] ~~Sometiimes headphone may not work after sleep (however, internal speaker can always work well). The [ALCPlugFix](https://github.com/goodwin/ALCPlugFix) can be used to fix the issue, see [my modified version](https://github.com/flymin/HackintoshTools-Thinkpad-X1E/tree/master/ALCPlugFix)~~. For Catalina, you need to **re**install this if you have installed before.
 - [Fixed] Fan control by [wdde](https://github.com/wdde) in this [issue#45](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/issues/45), see [here](https://github.com/flymin/HackintoshTools-Thinkpad-X1E#fan-control) for instructions.
+- [Solved for now] AirPods may not work smmothly after waking up from sleep. I don't think it is the problem of AppleALC,  but possibly BlueTooth. You can avoid this by turn off Automatic Ear Detection, [see](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/IMG/airpods.png).
 
 ## Add-ons
 
