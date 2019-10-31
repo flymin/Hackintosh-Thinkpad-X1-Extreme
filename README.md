@@ -1,12 +1,13 @@
 # Flymin's Hackintosh profile on Thinkpad X1E
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15](https://img.shields.io/badge/MacOS-10.15-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![CLOVER:5097](https://img.shields.io/badge/CLOVER-5097-yellow)
+[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.1](https://img.shields.io/badge/MacOS-10.15.1-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![CLOVER:5097](https://img.shields.io/badge/CLOVER-5097-yellow)
 
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
-- [20191021] In case you find problem when using AirPods. See [known-issue#4](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
+- [20191031] Updated to 10.15.1, nothing happens.
+- [20191030] In case you find problem when using AirPods. See [known-issue#4](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191021] Figured out how to control cpu fan, see [known-issue#3](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191014] Headphone work unpleasantly. **Re**install ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 
@@ -31,7 +32,7 @@ I will make effort to try every release and make modification if encounter with 
 - Wireless: Broadcom BCM943602CS
 - Sound card: Realtek ALC285
 - BIOS: v1.24
-- OS: OS X Catalina 10.15
+- OS: OS X Catalina 10.15.1
 
 ## Result
 
