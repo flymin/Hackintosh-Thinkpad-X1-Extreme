@@ -6,10 +6,9 @@
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
+- [20191109] Make new 10.15.1 folder. Make iGPU with 2048MB Mem. Change model to MacBookPro15,1. Use new AppleALC, more stable with BT. And other minor update.
 - [20191031] Updated to 10.15.1, nothing happens.
 - [20191030] In case you find problem when using AirPods. See [known-issue#4](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
-- [20191021] Figured out how to control cpu fan, see [known-issue#3](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
-- [20191014] Headphone work unpleasantly. **Re**install ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 
 ## ATTENTION
 
@@ -53,7 +52,7 @@ I will make effort to try every release and make modification if encounter with 
 - Function keys Fn+F4, Fn+F7-F12
 - Smooth brightness adjustment
 - Nvidia Graphics Card 1050Ti
-- Thunderbolt 3
+- Thunderbolt 3 (not tested, have no usable eGPU)
 - HDMI output to external display
 
 ### Known Issue

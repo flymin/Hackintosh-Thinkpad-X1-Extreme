@@ -4,6 +4,8 @@
 
 ### October Updates
 
+- [20191021] Figured out how to control cpu fan, see [known-issue#3](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
+- [20191014] Headphone work unpleasantly. **Re**install ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191010] Headphone work unpleasantly. Uninstall ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191009] **:tada:** Welcome for Catalina, after Software Update from System Preferences, everything works fine. Make new [Release for 10.15 v1.0](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/releases/tag/v10.15.1.0).
 - [20191007] BIOS, PS2Controller and clover updates
