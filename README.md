@@ -16,7 +16,6 @@
   - I added my AppleALC and CPUFriend (to enable better turbo boost). 
   - Report from Activity Monitor told me that battery can support  4~5 hours' using
 - Latest version in this repo is using **my own patched dsdt**. You can make your own following [this](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#dsdt-patch).
-- This repo basically is a fork repo of [Errrneist's repo](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme), except for some little change to compatible with my machine, which has different hardwares.
 
 I will make effort to try every release and make modification if encounter with problems.
 
@@ -87,11 +86,11 @@ I will make effort to try every release and make modification if encounter with 
 ## Acknowledgements
 
 - [zysuper's Hackintosh](https://github.com/zysuper/Thinkpad-X1-extreme-EFI) 
-- [Errrneist's Hackintosh](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme)
+- This repo previously is a fork repo of [Errrneist's repo](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme). Since we have different hardwares, I reconsider configurarions in this repo as a standalone version.
+- [20191109] older release details and fork information could be found in the **Archived version** for this repo, [here](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme_fork/releases). (I cannot import those to this new repo)
 - [darkal's Hackintosh](https://github.com/darkal/Hackintosh-Thinkpad-X1-Extreme)
   - same 8750H version, works fine on mine. See [Release 10.14.6 v1.0](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/releases/tag/v10.14.6.1.0)
 - [xuzhao9's Hackintosh](https://github.com/xuzhao9/ThinkPad-X1E-Hackintosh)
   - we have very similiar hardware configs, but his DSDT table won't work on mine. You can try it out if there are some problems with my version. 
 - [RehabMan's DSDT patches](https://github.com/RehabMan/Laptop-DSDT-Patch)
 - [Telegram Hackintosh Group](https://t.me/joinchat/FSuP2UI4ALt1uIVmQ5E6lg)
-- [20191109] older release details could be found in the **Archived version** for this repo, [here](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme_fork/releases). (I cannot import those to this new repo)
