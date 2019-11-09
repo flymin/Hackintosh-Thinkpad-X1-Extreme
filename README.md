@@ -94,3 +94,4 @@ I will make effort to try every release and make modification if encounter with 
   - we have very similiar hardware configs, but his DSDT table won't work on mine. You can try it out if there are some problems with my version. 
 - [RehabMan's DSDT patches](https://github.com/RehabMan/Laptop-DSDT-Patch)
 - [Telegram Hackintosh Group](https://t.me/joinchat/FSuP2UI4ALt1uIVmQ5E6lg)
+- [20191109] older release details could be found in the **Archived version** for this repo, [here](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme_fork/releases). (I cannot import those to this new repo)
