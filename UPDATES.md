@@ -4,6 +4,9 @@
 
 ### October Updates
 
+- [20191031] Updated to 10.15.1, nothing happens.
+- [20191030] In case you find problem when using AirPods. See [known-issue#4](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
+
 - [20191021] Figured out how to control cpu fan, see [known-issue#3](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191014] Headphone work unpleasantly. **Re**install ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191010] Headphone work unpleasantly. Uninstall ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
