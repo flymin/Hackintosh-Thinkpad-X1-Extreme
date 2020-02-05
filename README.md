@@ -1,11 +1,12 @@
 # Flymin's Hackintosh profile on Thinkpad X1E
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.2](https://img.shields.io/badge/MacOS-10.15.2-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![CLOVER:5100](https://img.shields.io/badge/CLOVER-5100-yellow)
+[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.3](https://img.shields.io/badge/MacOS-10.15.3-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![CLOVER:5100](https://img.shields.io/badge/CLOVER-5100-yellow)
 
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
+- [20200205] Update to 10.15.3, no change.
 - [20191213] Update to 10.15.2 and make a new folder. Update clover to 5100.
 - [20191109] Make new 10.15.1 folder. Make iGPU with 2048MB Mem. Change model to MacBookPro15,1. Use new AppleALC, more stable with BT. And other minor update.
 
@@ -29,7 +30,7 @@ I will make effort to try every release and make modification if encounter with 
 - Wireless: Broadcom BCM943602CS
 - Sound card: Realtek ALC285
 - BIOS: v1.24
-- OS: OS X Catalina 10.15.2
+- OS: OS X Catalina 10.15.3
 
 ## Result
 
