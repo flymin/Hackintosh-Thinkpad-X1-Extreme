@@ -1,23 +1,20 @@
 # Flymin's Hackintosh profile on Thinkpad X1E
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.3](https://img.shields.io/badge/MacOS-10.15.3-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![CLOVER:5100](https://img.shields.io/badge/CLOVER-5100-yellow)
+[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.4](https://img.shields.io/badge/MacOS-10.15.4-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![OPENCORE:0.6.1](https://img.shields.io/badge/OPENCORE-0.6.1-yellow)
 
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
+- [20200911] Migrate to [Opencore](https://github.com/acidanthera/OpenCorePkg), now version is 0.6.1, everything still.
 - [20200205] Update to 10.15.3, no change.
 - [20191213] Update to 10.15.2 and make a new folder. Update clover to 5100.
-- [20191109] Make new 10.15.1 folder. Make iGPU with 2048MB Mem. Change model to MacBookPro15,1. Use new AppleALC, more stable with BT. And other minor update.
 
 ## ATTENTION
 
-- ‼️ Thanks to [darkal](https://github.com/darkal) and his [config](https://github.com/darkal/Hackintosh-Thinkpad-X1-Extreme), battery drain in hibernation has been solved.
-  - I added my AppleALC and CPUFriend (to enable better turbo boost). 
-  - Report from Activity Monitor told me that battery can support  4~5 hours' using
-- Latest version in this repo is using **my own patched dsdt**. You can make your own following [this](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#dsdt-patch).
-
-I will make effort to try every release and make modification if encounter with problems.
+- Opencore is way too convenient for hackintosher to make their own EFI !!! see [vanilla's guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
+- The opencore version of my project mostly refer to [zysuper's repo](https://github.com/zysuper/Thinkpad-X1-extreme-EFI)
+- You need to fill out the **PlatformInfo** part to use my config of opencore
 
 ## Hardware: Thinkpad X1 Extreme Gen 1
 
@@ -30,7 +27,7 @@ I will make effort to try every release and make modification if encounter with 
 - Wireless: Broadcom BCM943602CS
 - Sound card: Realtek ALC285
 - BIOS: v1.24
-- OS: OS X Catalina 10.15.3
+- OS: OS X Catalina 10.15.4
 
 ## Result
 
@@ -63,11 +60,11 @@ I will make effort to try every release and make modification if encounter with 
 
 ## Add-ons
 
-### DSDT patch
+### ~~DSDT patch~~
 
-- Battery level display (directly use RehabMan/thinkpad x230i patch)
-- Keyboard function keys, volume and screen brightness (DSDT EC _Q14, _Q15 patch), [see](https://github.com/zysuper/Thinkpad-X1-extreme-EFI/issues/18#issuecomment-502606377).
-- Audio Layout (change any one of the patches and change layout id to 31, this may remain rudimentary with alcid=31 in conflg.plist)
+- ~~Battery level display (directly use RehabMan/thinkpad x230i patch)~~
+- ~~Keyboard function keys, volume and screen brightness (DSDT EC _Q14, _Q15 patch), [see](https://github.com/zysuper/Thinkpad-X1-extreme-EFI/issues/18#issuecomment-502606377).~~
+- ~~Audio Layout (change any one of the patches and change layout id to 31, this may remain rudimentary with alcid=31 in conflg.plist)~~
 
 ### kext modifications
 
@@ -85,7 +82,8 @@ I will make effort to try every release and make modification if encounter with 
 
 ## Acknowledgements
 
-- [zysuper's Hackintosh](https://github.com/zysuper/Thinkpad-X1-extreme-EFI) 
+- [zysuper's Hackintosh](https://github.com/zysuper/Thinkpad-X1-extreme-EFI)
+- 我认为最详细的 Opencore 配置解读：[独行秀才的老窝](https://shuiyunxc.gitee.io/)
 - This repo previously is a fork repo of [Errrneist's repo](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme). Since we have different hardwares, I reconsider configurarions in this repo as a standalone version.
 - [20191109] older release details and fork information could be found in the **Archived version** for this repo, [here](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme_fork/releases). (I cannot import those to this new repo)
 - [darkal's Hackintosh](https://github.com/darkal/Hackintosh-Thinkpad-X1-Extreme)

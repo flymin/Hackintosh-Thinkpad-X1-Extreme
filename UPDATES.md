@@ -2,11 +2,14 @@
 
 ## 2019
 
+## November Updates
+
+- [20191109] Make new 10.15.1 folder. Make iGPU with 2048MB Mem. Change model to MacBookPro15,1. Use new AppleALC, more stable with BT. And other minor update.
+
 ### October Updates
 
 - [20191031] Updated to 10.15.1, nothing happens.
 - [20191030] In case you find problem when using AirPods. See [known-issue#4](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
-
 - [20191021] Figured out how to control cpu fan, see [known-issue#3](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191014] Headphone work unpleasantly. **Re**install ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
 - [20191010] Headphone work unpleasantly. Uninstall ALCPlugFix resolve this issue, see [known-issue#2](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme#known-issue).
@@ -126,7 +129,5 @@
 * [20181028] Clover have UEFI64Driver support FileVault2. Still, make sure you get everything else working first.
 * [20181027] DO NOT USE FILEVAULT!!! 100% DISK BREAK AFTER REBOOT GUARANTEED.
 * [20181027] Project Started. Initial [INSTALL1.0](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/tree/master/10.14.0/1.0-Initlal_BootAble) posted.
-
-### Cheers, Errrneist.
 
 
