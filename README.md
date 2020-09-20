@@ -1,14 +1,14 @@
 # Flymin's Hackintosh profile on Thinkpad X1E
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.4](https://img.shields.io/badge/MacOS-10.15.4-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![OPENCORE:0.6.1](https://img.shields.io/badge/OPENCORE-0.6.1-yellow)
+[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.6](https://img.shields.io/badge/MacOS-10.15.6-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![OPENCORE:0.6.1](https://img.shields.io/badge/OPENCORE-0.6.1-yellow)
 
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
+- [20200920] Update to 10.15.6. Solve the problem of hibernation battery drain. Using [OC-little/10-PTSWAK综合扩展补丁](https://github.com/daliansky/OC-little/tree/master/10-PTSWAK%E7%BB%BC%E5%90%88%E6%89%A9%E5%B1%95%E8%A1%A5%E4%B8%81)
 - [20200911] Migrate to [Opencore](https://github.com/acidanthera/OpenCorePkg), now version is 0.6.1, everything still.
 - [20200205] Update to 10.15.3, no change.
-- [20191213] Update to 10.15.2 and make a new folder. Update clover to 5100.
 
 ## ATTENTION
 
@@ -84,6 +84,7 @@
 
 - [zysuper's Hackintosh](https://github.com/zysuper/Thinkpad-X1-extreme-EFI)
 - 我认为最详细的 Opencore 配置解读：[独行秀才的老窝](https://shuiyunxc.gitee.io/)
+- Opencore 补丁库 [OC-little](https://github.com/daliansky/OC-little)
 - This repo previously is a fork repo of [Errrneist's repo](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme). Since we have different hardwares, I reconsider configurarions in this repo as a standalone version.
 - [20191109] older release details and fork information could be found in the **Archived version** for this repo, [here](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme_fork/releases). (I cannot import those to this new repo)
 - [darkal's Hackintosh](https://github.com/darkal/Hackintosh-Thinkpad-X1-Extreme)

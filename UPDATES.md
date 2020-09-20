@@ -2,6 +2,10 @@
 
 ## 2019
 
+## December Updates
+
+- [20191213] Update to 10.15.2 and make a new folder. Update clover to 5100.
+
 ## November Updates
 
 - [20191109] Make new 10.15.1 folder. Make iGPU with 2048MB Mem. Change model to MacBookPro15,1. Use new AppleALC, more stable with BT. And other minor update.
