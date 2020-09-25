@@ -1,5 +1,9 @@
 # Hackintosh for Thinkpad X1 Extreme-Update History
 
+## 2020
+
+- [20200205] Update to 10.15.3, no change.
+
 ## 2019
 
 ## December Updates
