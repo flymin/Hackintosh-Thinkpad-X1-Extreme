@@ -2,6 +2,7 @@
 
 ## 2020
 
+- [20200911] Migrate to [Opencore](https://github.com/acidanthera/OpenCorePkg), now version is 0.6.1, everything still.
 - [20200205] Update to 10.15.3, no change.
 
 ## 2019
