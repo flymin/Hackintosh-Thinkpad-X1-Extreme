@@ -2,6 +2,7 @@
 
 ## 2020
 
+- [20200923] If hibernation battery drain still occur after update, try to reset your NVME through OC.
 - [20200920] Update to 10.15.6. Solve the problem of hibernation battery drain. Using [OC-little/10-PTSWAK综合扩展补丁](https://github.com/daliansky/OC-little/tree/master/10-PTSWAK%E7%BB%BC%E5%90%88%E6%89%A9%E5%B1%95%E8%A1%A5%E4%B8%81)
 - [20200911] Migrate to [Opencore](https://github.com/acidanthera/OpenCorePkg), now version is 0.6.1, everything still.
 - [20200205] Update to 10.15.3, no change.

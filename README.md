@@ -1,14 +1,14 @@
 # Flymin's Hackintosh profile on Thinkpad X1E
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.7](https://img.shields.io/badge/MacOS-10.15.7-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![OPENCORE:0.6.2](https://img.shields.io/badge/OPENCORE-0.6.2-yellow)
+[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.7](https://img.shields.io/badge/MacOS-10.15.7-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![OPENCORE:0.6.3](https://img.shields.io/badge/OPENCORE-0.6.3-yellow)
 
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
+- [20201103] Update opencore to 0.6.3 and kexts.
 - [20201007] Update opencore to 0.6.2 and kexts.
 - [20200926] Update to 10.15.7, everything works fine.
-- [20200923] If hibernation battery drain still occur after update, try to reset your NVME through OC.
 
 ## ATTENTION
 
