@@ -1,11 +1,12 @@
 # Flymin's Hackintosh profile on Thinkpad X1E
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.7](https://img.shields.io/badge/MacOS-10.15.7-orange) ![BIOS:1.24](https://img.shields.io/badge/BIOS-1.24-brightgreen) ![OPENCORE:0.6.3](https://img.shields.io/badge/OPENCORE-0.6.3-yellow)
+[![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.7](https://img.shields.io/badge/MacOS-10.15.7-orange) ![BIOS:1.33](https://img.shields.io/badge/BIOS-1.33-brightgreen) ![OPENCORE:0.6.4](https://img.shields.io/badge/OPENCORE-0.6.4-yellow)
 
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
 
+- [20201219] I encounter various kinds of problems (hibernation & system stuck) everyday after I updated OC to 0.6.4. I tried to update BIOS to the latest version (1.33). My hackintosh just stays alive for two days. Hope it will keep fine for longer time.
 - [20201103] Update opencore to 0.6.3 and kexts.
 - [20201007] Update opencore to 0.6.2 and kexts.
 - [20200926] Update to 10.15.7, everything works fine.
@@ -26,7 +27,7 @@
 - Graphics: Intel UHD Graphics 630
 - Wireless: Broadcom BCM943602CS
 - Sound card: Realtek ALC285
-- BIOS: v1.24
+- BIOS: v1.33
 - OS: OS X Catalina 10.15.7
 
 ## Result
