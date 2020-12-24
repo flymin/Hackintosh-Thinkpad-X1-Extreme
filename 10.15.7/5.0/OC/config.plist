@@ -1327,7 +1327,7 @@
 			<key>BlacklistAppleUpdate</key>
 			<false/>
 			<key>BootProtect</key>
-			<string>Bootstrap</string>
+			<string>None</string>
 			<key>DmgLoading</key>
 			<string>Signed</string>
 			<key>EnablePassword</key>
@@ -1497,11 +1497,11 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02813130J9JP4FCB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>SCrjIpNA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1509,9 +1509,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02WH5YGKGYG</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>D4FFCAB1-4519-4658-AACC-AD741796FEC6</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
