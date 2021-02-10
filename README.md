@@ -2,6 +2,14 @@
 
 [![LICENSE](https://img.shields.io/badge/LICENSE-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) ![MacOS-10.15.7](https://img.shields.io/badge/MacOS-10.15.7-orange) ![BIOS:1.33](https://img.shields.io/badge/BIOS-1.33-brightgreen) ![OPENCORE:0.6.5](https://img.shields.io/badge/OPENCORE-0.6.5-yellow)
 
+## ❗️Announcement
+
+The Hackintosh accidentally woke my computer up during mid-night and got stuck (this happened in 2020.08 when I first trying to use opencore). The cpu kept working and caused a very high temperature for the whole night. After that my hardware is so unstable that after a few months, I cannot open it again. I reached several places trying to have someone fixed my motherboard IC. However, they all failed. Therefore, I decided to bought a real Macbook in order to not lose track of my research work.
+
+Therefore, sorry for all of you following this project. I will not update in the future. Hope your machine can work well and enjoy your hackintosh.
+
+Goodbye.
+
 ## Update
 
 ##### Recent | [Changelog Archive](https://github.com/flymin/Hackintosh-Thinkpad-X1-Extreme/blob/master/UPDATES.md)
